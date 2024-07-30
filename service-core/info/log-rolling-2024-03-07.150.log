@@ -1,0 +1,8 @@
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=20000, parentId=1, name=行业, value=null, dictCode=industry, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-07 19:43:22 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis

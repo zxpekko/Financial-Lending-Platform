@@ -1,0 +1,6 @@
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 UserAccountController.java:52 com.atguigu.srb.core.controller.api.UserAccountController 用户充值异步回调：{"chargeAmt":"100","hyFee":"0","mchFee":"0","resultCode":"0001","sign":"6e76b0080bdd76b6b8555a51fc339456","bindCode":"04cbf73fc15549ed8f6b696c4ccd07bd","agentBillNo":"20240317162857260","resultMsg":"充值成功","timestamp":"1710664152506"}
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240317162857260|04cbf73fc15549ed8f6b696c4ccd07bd|100|0|0|0001|充值成功|1710664152506|9876543210
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：6e76b0080bdd76b6b8555a51fc339456
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 UserAccountServiceImpl.java:95 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 充值成功：{"chargeAmt":"100","hyFee":"0","mchFee":"0","resultCode":"0001","bindCode":"04cbf73fc15549ed8f6b696c4ccd07bd","agentBillNo":"20240317162857260","resultMsg":"充值成功","timestamp":"1710664152506"}
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 UserAccountServiceImpl.java:111 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 发消息
+2024-03-17 16:29:13 [INFO ] http-nio-8110-exec-4 MQService.java:28 com.atguigu.srb.rabbitutil.service.MQService 发送消息...........

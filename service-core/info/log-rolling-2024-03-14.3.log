@@ -1,0 +1,7 @@
+2024-03-14 13:02:05 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.663 seconds (JVM running for 10630.359)
+2024-03-14 16:08:13 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-14 16:14:04 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-14 16:14:15 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 15.129 seconds (JVM running for 16.979)
+2024-03-14 16:16:38 [INFO ] http-nio-8110-exec-10 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：LOAN20240314161638658|999888|LEND20240311133312482|49.9999200000|1710404198860|9876543210
+2024-03-14 16:16:38 [INFO ] http-nio-8110-exec-10 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：e849069c4e172d195436c7d62ce78e09
+2024-03-14 16:16:38 [INFO ] http-nio-8110-exec-10 LendServiceImpl.java:189 com.atguigu.srb.core.service.impl.LendServiceImpl 放款参数：{"agentId":"999888","agentProjectCode":"LEND20240311133312482","mchFee":49.9999200000,"sign":"e849069c4e172d195436c7d62ce78e09","agentBillNo":"LOAN20240314161638658","timestamp":1710404198860}

@@ -1,0 +1,8 @@
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsReceiver.java:37 com.atguigu.srb.sms.receiver.SmsReceiver SmsReceiver 消息监听
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:68 com.atguigu.srb.sms.service.impl.SmsServiceImpl 阿里云短信发送响应结果：
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:69 com.atguigu.srb.sms.service.impl.SmsServiceImpl code：isv.TEMPLATE_PARAMS_ILLEGAL
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:70 com.atguigu.srb.sms.service.impl.SmsServiceImpl message：params must be [a-zA-Z0-9] for verification sms
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 Assert.java:77 com.atguigu.common.exception.Assert not equals...............
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsReceiver.java:37 com.atguigu.srb.sms.receiver.SmsReceiver SmsReceiver 消息监听
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:68 com.atguigu.srb.sms.service.impl.SmsServiceImpl 阿里云短信发送响应结果：
+2024-03-17 15:45:39 [INFO ] org.springframework.amqp.rabbit.RabbitListenerEndpointContainer#0-1 SmsServiceImpl.java:69 com.atguigu.srb.sms.service.impl.SmsServiceImpl code：isv.TEMPLATE_PARAMS_ILLEGAL

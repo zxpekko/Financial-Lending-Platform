@@ -1,0 +1,7 @@
+2024-03-12 11:29:08 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 8.33 seconds (JVM running for 4680.52)
+2024-03-12 11:34:34 [INFO ] http-nio-8110-exec-1 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-12 11:37:55 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240312113755414|999888|04cbf73fc15549ed8f6b696c4ccd07bd|10|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1710214675715|9876543210
+2024-03-12 11:37:55 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：060107eb80268c1d082a5bfaf0c60325
+2024-03-12 12:59:48 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240312125948324|999888|04cbf73fc15549ed8f6b696c4ccd07bd|10|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1710219588486|9876543210
+2024-03-12 12:59:48 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：339fd37442f67613229e26d5e517b15d
+2024-03-12 15:49:07 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

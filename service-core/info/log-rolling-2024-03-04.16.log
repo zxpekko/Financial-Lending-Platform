@@ -1,0 +1,8 @@
+2024-03-04 14:15:00 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-04 14:15:00 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-04 14:17:03 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-04 14:17:03 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-04 14:17:03 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-03-04 14:17:15 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-04 14:17:15 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-04 14:17:15 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error

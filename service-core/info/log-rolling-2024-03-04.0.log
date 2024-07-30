@@ -1,0 +1,6 @@
+2024-03-04 09:59:52 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 11984 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-03-04 09:59:52 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-04 09:59:58 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.474 seconds (JVM running for 8.379)
+2024-03-04 10:01:18 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 26428 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-03-04 10:01:18 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-04 10:01:24 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.671 seconds (JVM running for 9.215)

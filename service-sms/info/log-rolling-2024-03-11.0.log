@@ -1,0 +1,8 @@
+2024-03-07 20:06:23 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] keep-alive: timeout=60
+2024-03-07 20:06:23 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] transfer-encoding: chunked
+2024-03-07 20:06:23 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] 
+2024-03-07 20:06:23 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] false
+2024-03-07 20:06:23 [DEBUG] http-nio-8120-exec-1 Slf4jLogger.java:72 com.atguigu.srb.sms.client.CoreUserInfoClient [CoreUserInfoClient#checkMobile] <--- END HTTP (5-byte body)
+2024-03-10 09:51:18 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2024-03-10 09:51:26 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 11.85 seconds (JVM running for 13.978)
+2024-03-11 15:14:02 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev

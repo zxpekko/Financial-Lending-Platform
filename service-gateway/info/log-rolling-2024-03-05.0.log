@@ -1,0 +1,8 @@
+2024-03-05 14:45:45 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 14:46:17 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 14:47:37 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 14:49:15 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 15:07:09 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 15:07:19 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.gateway.ServiceGatewayApplication Started ServiceGatewayApplication in 12.293 seconds (JVM running for 14.005)
+2024-03-05 15:21:53 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev
+2024-03-05 15:22:51 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.gateway.ServiceGatewayApplication The following profiles are active: dev

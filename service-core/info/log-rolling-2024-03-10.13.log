@@ -1,0 +1,10 @@
+2024-03-10 13:05:43 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 12.038 seconds (JVM running for 13.74)
+2024-03-10 13:31:04 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-10 13:31:04 [INFO ] http-nio-8110-exec-6 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-10 14:18:54 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-10 14:19:03 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.409 seconds (JVM running for 13.103)
+2024-03-10 14:34:39 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-10 14:34:44 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.732 seconds (JVM running for 954.242)
+2024-03-10 15:08:45 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-10 15:08:51 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.939 seconds (JVM running for 3001.18)
+2024-03-10 15:09:43 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

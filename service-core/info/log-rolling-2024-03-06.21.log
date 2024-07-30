@@ -1,0 +1,2 @@
+2024-03-06 15:08:19 [INFO ] http-nio-8110-exec-5 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：36cdc49fb0b6c81e12518f8e139ce8ba
+2024-03-06 15:08:19 [INFO ] http-nio-8110-exec-5 UserBindController.java:62 com.atguigu.srb.core.controller.api.UserBindController 验签成功，开始绑定用户

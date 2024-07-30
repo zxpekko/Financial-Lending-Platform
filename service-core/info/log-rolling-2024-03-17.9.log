@@ -1,0 +1,6 @@
+2024-03-17 13:28:40 [INFO ] http-nio-8110-exec-7 UserInfoServiceImpl.java:90 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-17 13:28:49 [INFO ] http-nio-8110-exec-4 UserInfoServiceImpl.java:90 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-17 15:37:24 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-17 15:39:21 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-17 15:39:32 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 13.595 seconds (JVM running for 15.379)
+2024-03-17 15:44:20 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240317154420883|999888|04cbf73fc15549ed8f6b696c4ccd07bd|100|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1710661460835|9876543210

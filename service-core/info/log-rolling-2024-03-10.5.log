@@ -1,0 +1,6 @@
+2024-03-10 10:23:53 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-10 10:23:53 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-10 10:25:20 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=80000, parentId=1, name=资金用途, value=null, dictCode=moneyUse, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-10 10:25:20 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=70000, parentId=1, name=还款方式, value=null, dictCode=returnMethod, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-10 10:25:20 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2024-03-10 10:25:20 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表

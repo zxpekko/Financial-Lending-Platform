@@ -1,0 +1,6 @@
+2024-03-17 17:23:21 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240317172317141|04cbf73fc15549ed8f6b696c4ccd07bd|1000|0|0|0001|充值成功|1710667400907|9876543210
+2024-03-17 17:23:21 [INFO ] http-nio-8110-exec-2 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：da125b01e37e7ad41d78feb48b37d695
+2024-03-17 17:23:21 [INFO ] http-nio-8110-exec-2 UserAccountServiceImpl.java:95 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 充值成功：{"chargeAmt":"1000","hyFee":"0","mchFee":"0","resultCode":"0001","bindCode":"04cbf73fc15549ed8f6b696c4ccd07bd","agentBillNo":"20240317172317141","resultMsg":"充值成功","timestamp":"1710667400907"}
+2024-03-17 17:23:21 [INFO ] http-nio-8110-exec-2 UserAccountServiceImpl.java:111 com.atguigu.srb.core.service.impl.UserAccountServiceImpl 发消息
+2024-03-17 17:23:21 [INFO ] http-nio-8110-exec-2 MQService.java:28 com.atguigu.srb.rabbitutil.service.MQService 发送消息...........
+2024-03-17 17:30:43 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：20240317173043034|999888|04cbf73fc15549ed8f6b696c4ccd07bd|1000|0|http://localhost/api/core/userAccount/notify|http://localhost:3000/user|1710667843626|9876543210

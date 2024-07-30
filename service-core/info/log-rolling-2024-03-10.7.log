@@ -1,0 +1,7 @@
+2024-03-10 10:37:02 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-10 10:37:02 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-10 10:37:02 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-10 10:37:02 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-10 10:57:52 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-10 10:58:01 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 11.201 seconds (JVM running for 13.017)
+2024-03-10 11:15:17 [INFO ] http-nio-8110-exec-3 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1

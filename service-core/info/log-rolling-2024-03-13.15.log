@@ -1,0 +1,5 @@
+2024-03-13 13:40:47 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.658 seconds (JVM running for 76193.536)
+2024-03-13 16:00:45 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-13 16:00:50 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.68 seconds (JVM running for 84596.155)
+2024-03-13 16:09:07 [INFO ] http-nio-8110-exec-8 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-13 16:09:56 [INFO ] http-nio-8110-exec-5 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：INVEST20240313160956984|999888|LEND20240311133312482|借贷|04cbf73fc15549ed8f6b696c4ccd07bd||http://localhost/api/core/lendItem/notify|100000.00|http://localhost:3000/user|1710317396562|1000|04cbf73fc15549ed8f6b696c4ccd07bd|0|0|9876543210

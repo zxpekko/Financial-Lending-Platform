@@ -1,0 +1,7 @@
+2024-03-05 19:52:54 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 15.436 seconds (JVM running for 17.534)
+2024-03-05 19:53:14 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-05 19:53:14 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-05 19:53:14 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-03-05 19:53:15 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-05 19:53:15 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-05 19:53:15 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error

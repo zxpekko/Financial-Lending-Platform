@@ -1,0 +1,6 @@
+2024-03-06 15:06:42 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 12.638 seconds (JVM running for 14.448)
+2024-03-06 15:07:26 [INFO ] http-nio-8110-exec-1 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-06 15:07:57 [INFO ] http-nio-8110-exec-3 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|2|45545454545|建设银行|34545454664213|18921639740|http://localhost/api/core/userBind/notify|张彪|http://localhost:3000/user|1709708877249|9876543210
+2024-03-06 15:07:57 [INFO ] http-nio-8110-exec-3 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：3d20cbb9ca17437a635e578bbdcfd283
+2024-03-06 15:08:19 [INFO ] http-nio-8110-exec-5 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"2","resultCode":"0001","sign":"36cdc49fb0b6c81e12518f8e139ce8ba","bindCode":"04cbf73fc15549ed8f6b696c4ccd07bd","resultMsg":"成功","timestamp":"1709708898139"}
+2024-03-06 15:08:19 [INFO ] http-nio-8110-exec-5 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：2|04cbf73fc15549ed8f6b696c4ccd07bd|0001|成功|1709708898139|9876543210

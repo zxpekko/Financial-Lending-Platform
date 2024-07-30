@@ -1,0 +1,6 @@
+2024-03-05 10:53:43 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.749 seconds (JVM running for 4972.611)
+2024-03-05 11:14:06 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-05 11:14:06 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-05 11:14:06 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-03-05 11:27:43 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 41272 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-03-05 11:27:43 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

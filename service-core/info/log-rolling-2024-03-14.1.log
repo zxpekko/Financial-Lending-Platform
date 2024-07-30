@@ -1,0 +1,5 @@
+2024-03-14 11:06:30 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 7.338 seconds (JVM running for 3695.032)
+2024-03-14 11:11:36 [INFO ] http-nio-8110-exec-4 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：LOAN20240314111136877|999888|LEND20240311133312482|49.9999200000|1710385896369|9876543210
+2024-03-14 11:11:36 [INFO ] http-nio-8110-exec-4 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：2caaf1d6b198bd85016493c46b2f09da
+2024-03-14 11:11:36 [INFO ] http-nio-8110-exec-4 LendServiceImpl.java:189 com.atguigu.srb.core.service.impl.LendServiceImpl 放款参数：{"agentId":"999888","agentProjectCode":"LEND20240311133312482","mchFee":49.9999200000,"sign":"2caaf1d6b198bd85016493c46b2f09da","agentBillNo":"LOAN20240314111136877","timestamp":1710385896369}
+2024-03-14 11:11:36 [INFO ] http-nio-8110-exec-4 RequestHelper.java:95 com.atguigu.srb.core.hfb.RequestHelper --> 发送请求到汇付宝：post data agentId=999888&agentProjectCode=LEND20240311133312482&mchFee=49.9999200000&sign=2caaf1d6b198bd85016493c46b2f09da&agentBillNo=LOAN20240314111136877&timestamp=1710385896369&

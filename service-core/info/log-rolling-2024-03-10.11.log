@@ -1,0 +1,6 @@
+2024-03-10 12:47:26 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 10.841 seconds (JVM running for 12.451)
+2024-03-10 12:48:38 [INFO ] http-nio-8110-exec-10 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-10 12:56:55 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=80000, parentId=1, name=资金用途, value=null, dictCode=moneyUse, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-10 12:56:55 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=70000, parentId=1, name=还款方式, value=null, dictCode=returnMethod, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-10 12:56:57 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-10 12:56:57 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据

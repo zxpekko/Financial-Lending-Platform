@@ -1,0 +1,8 @@
+2024-03-06 09:59:37 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 16.962 seconds (JVM running for 19.1)
+2024-03-06 09:59:58 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-06 09:59:59 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-06 09:59:59 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-06 09:59:59 [INFO ] http-nio-8110-exec-2 DictServiceImpl.java:78 com.atguigu.srb.core.service.impl.DictServiceImpl 将数据存入redis
+2024-03-06 10:00:11 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-06 10:00:11 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-06 10:00:11 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error

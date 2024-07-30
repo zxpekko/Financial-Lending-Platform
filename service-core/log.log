@@ -1,0 +1,165 @@
+2024-02-08 18:38:14 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 15212 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-02-08 18:38:14 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-02-08 18:38:17 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 3.613 seconds (JVM running for 4.928)
+2024-02-08 18:38:36 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-08 18:38:36 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-08 18:38:36 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 13:56:34 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:50 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 12204 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-02-13 14:11:50 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-02-13 14:11:52 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 1.666 seconds (JVM running for 74.948)
+2024-02-13 14:11:55 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:55 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:55 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-5 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-6 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-6 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-6 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:56 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:56 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:56 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-10 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-10 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-10 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:11:57 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:11:57 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:11:57 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:10 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 19096 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-02-13 14:12:10 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-02-13 14:12:13 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 3.73 seconds (JVM running for 5.134)
+2024-02-13 14:12:19 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:19 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:19 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:19 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:19 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:19 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:19 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:19 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:19 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:20 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:20 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:20 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:20 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:20 [WARN ] http-nio-8110-exec-5 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:20 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:21 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:21 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:21 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:21 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:21 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:21 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:22 [INFO ] http-nio-8110-exec-6 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:22 [WARN ] http-nio-8110-exec-6 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:22 [ERROR] http-nio-8110-exec-6 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:22 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:22 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:22 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:23 [INFO ] http-nio-8110-exec-10 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:23 [WARN ] http-nio-8110-exec-10 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:23 [ERROR] http-nio-8110-exec-10 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:23 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:23 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:23 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:23 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:23 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:23 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:23 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:23 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:23 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-5 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-6 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-6 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-6 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:24 [INFO ] http-nio-8110-exec-10 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:24 [WARN ] http-nio-8110-exec-10 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:24 [ERROR] http-nio-8110-exec-10 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:25 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:25 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:25 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:25 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:25 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:25 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-5 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:26 [INFO ] http-nio-8110-exec-6 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:26 [WARN ] http-nio-8110-exec-6 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:26 [ERROR] http-nio-8110-exec-6 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-10 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-10 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-10 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-1 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-1 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-2 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-2 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-3 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-3 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:27 [INFO ] http-nio-8110-exec-4 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:27 [WARN ] http-nio-8110-exec-4 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:27 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:28 [INFO ] http-nio-8110-exec-5 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:28 [WARN ] http-nio-8110-exec-5 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:28 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:12:28 [INFO ] http-nio-8110-exec-8 AdminIntegralGradeController.java:46 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-02-13 14:12:28 [WARN ] http-nio-8110-exec-8 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-02-13 14:12:28 [ERROR] http-nio-8110-exec-8 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:13:46 [ERROR] http-nio-8110-exec-1 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:13:52 [ERROR] http-nio-8110-exec-2 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:13:52 [ERROR] http-nio-8110-exec-3 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:13:53 [ERROR] http-nio-8110-exec-4 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-02-13 14:13:53 [ERROR] http-nio-8110-exec-5 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error

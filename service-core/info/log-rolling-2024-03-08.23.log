@@ -1,0 +1,5 @@
+2024-03-08 15:02:50 [INFO ] http-nio-8110-exec-5 BorrowInfoController.java:38 com.atguigu.srb.core.controller.api.BorrowInfoController 开始执行2
+2024-03-08 15:07:31 [INFO ] http-nio-8110-exec-9 UserInfoServiceImpl.java:83 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-08 15:08:34 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：999888|3|555555555555555|招商银行|1111111111111|18934531248|http://localhost/api/core/userBind/notify|陈平安|http://localhost:3000/user|1709881714116|9876543210
+2024-03-08 15:08:34 [INFO ] http-nio-8110-exec-2 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：b9624c1188b0dfb4451295cde8e31b20
+2024-03-08 15:08:47 [INFO ] http-nio-8110-exec-3 UserBindController.java:56 com.atguigu.srb.core.controller.api.UserBindController 用户账号绑定异步回调：{"agentUserId":"3","resultCode":"0001","sign":"06ffd540b3a564458c3657f85d45db94","bindCode":"3285fbb9b83b4702883bbe8c30dcbe02","resultMsg":"成功","timestamp":"1709881726933"}

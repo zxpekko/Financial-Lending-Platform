@@ -1,0 +1,7 @@
+2024-03-11 15:14:06 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 7.066 seconds (JVM running for 105777.603)
+2024-03-12 11:26:34 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2024-03-12 11:26:39 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 7.188 seconds (JVM running for 178533.391)
+2024-03-13 10:55:32 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2024-03-13 10:55:37 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.sms.ServiceSmsApplication Started ServiceSmsApplication in 6.473 seconds (JVM running for 263076.14)
+2024-03-14 09:57:06 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev
+2024-03-14 10:05:05 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.sms.ServiceSmsApplication The following profiles are active: dev

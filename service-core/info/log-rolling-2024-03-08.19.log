@@ -1,0 +1,7 @@
+2024-03-08 11:46:45 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 25.256 seconds (JVM running for 29.993)
+2024-03-08 12:51:43 [INFO ] http-nio-8110-exec-7 BorrowInfoController.java:38 com.atguigu.srb.core.controller.api.BorrowInfoController 开始执行2
+2024-03-08 13:28:54 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-08 13:30:14 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-08 13:31:28 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-08 13:46:28 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-08 13:46:39 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 13.908 seconds (JVM running for 15.727)

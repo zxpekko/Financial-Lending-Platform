@@ -1,0 +1,7 @@
+2024-03-05 19:49:25 [INFO ] http-nio-8110-exec-7 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-05 19:49:25 [WARN ] http-nio-8110-exec-7 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-05 19:49:25 [ERROR] http-nio-8110-exec-7 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-03-05 19:49:32 [INFO ] http-nio-8110-exec-9 AdminIntegralGradeController.java:47 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController hi i'm helen
+2024-03-05 19:49:32 [WARN ] http-nio-8110-exec-9 AdminIntegralGradeController.java:48 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController warning!!!
+2024-03-05 19:49:32 [ERROR] http-nio-8110-exec-9 AdminIntegralGradeController.java:49 com.atguigu.srb.core.controller.admin.AdminIntegralGradeController it's a error
+2024-03-05 19:52:42 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev

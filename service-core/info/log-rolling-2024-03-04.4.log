@@ -1,0 +1,6 @@
+2024-03-04 11:14:52 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.139 seconds (JVM running for 7.994)
+2024-03-04 11:16:46 [INFO ] http-nio-8110-exec-9 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 11:21:30 [INFO ] restartedMain StartupInfoLogger.java:55 com.atguigu.srb.core.ServiceCoreApplication Starting ServiceCoreApplication on Lenovo with PID 37284 (G:\IDEA\srb\service-core\target\classes started by Lenovo1 in G:\IDEA\srb)
+2024-03-04 11:21:30 [INFO ] restartedMain SpringApplication.java:655 com.atguigu.srb.core.ServiceCoreApplication The following profiles are active: dev
+2024-03-04 11:21:36 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 6.675 seconds (JVM running for 8.877)
+2024-03-04 11:32:04 [INFO ] http-nio-8110-exec-4 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1

@@ -1,0 +1,8 @@
+2024-03-07 16:11:06 [INFO ] http-nio-8110-exec-13 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=40000, parentId=1, name=收入, value=null, dictCode=income, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-07 16:11:06 [INFO ] http-nio-8110-exec-15 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=60000, parentId=1, name=关系, value=null, dictCode=relation, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-14 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-1 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-7 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据
+2024-03-07 16:11:07 [INFO ] http-nio-8110-exec-12 DictServiceImpl.java:70 com.atguigu.srb.core.service.impl.DictServiceImpl 从数据库中获取数据

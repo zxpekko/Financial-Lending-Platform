@@ -1,0 +1,5 @@
+2024-03-15 16:10:52 [INFO ] http-nio-8110-exec-1 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：WITHDRAW20240315161052753|999888|04cbf73fc15549ed8f6b696c4ccd07bd|0|1234|http://localhost/api/core/userAccount/notifyWithdraw|http://localhost:3000/user|1710490252039|9876543210
+2024-03-15 16:10:52 [INFO ] http-nio-8110-exec-1 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：95e2623a3ba994d3415a3a21d9be88f5
+2024-03-15 16:11:35 [INFO ] http-nio-8110-exec-2 UserAccountController.java:91 com.atguigu.srb.core.controller.api.UserAccountController 提现异步回调：{"mchFee":"0","resultCode":"0001","sign":"235092ea3919a1a76f8736fcd83bc932","fetchAmt":"1234","bindCode":"04cbf73fc15549ed8f6b696c4ccd07bd","agentBillNo":"WITHDRAW20240315161052753","resultMsg":"充值成功","timestamp":"1710490294328"}
+2024-03-15 16:11:35 [INFO ] http-nio-8110-exec-2 RequestHelper.java:39 com.atguigu.srb.core.hfb.RequestHelper 加密前：WITHDRAW20240315161052753|04cbf73fc15549ed8f6b696c4ccd07bd|1234|0|0001|充值成功|1710490294328|9876543210
+2024-03-15 16:11:35 [INFO ] http-nio-8110-exec-2 RequestHelper.java:41 com.atguigu.srb.core.hfb.RequestHelper 加密后：235092ea3919a1a76f8736fcd83bc932

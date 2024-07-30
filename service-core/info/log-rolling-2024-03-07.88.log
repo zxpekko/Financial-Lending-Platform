@@ -1,0 +1,6 @@
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-3 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-10 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:92 com.atguigu.srb.core.service.impl.DictServiceImpl dictDict(id=30000, parentId=1, name=学历, value=null, dictCode=education, createTime=2024-02-21T22:06:03, updateTime=2024-02-21T22:06:03, deleted=false, hasChildren=null)
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-4 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-12 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表
+2024-03-07 19:10:24 [INFO ] http-nio-8110-exec-5 DictServiceImpl.java:63 com.atguigu.srb.core.service.impl.DictServiceImpl 从redis中获取数据列表

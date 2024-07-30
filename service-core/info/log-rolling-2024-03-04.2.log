@@ -1,0 +1,7 @@
+2024-03-04 10:07:58 [INFO ] restartedMain StartupInfoLogger.java:61 com.atguigu.srb.core.ServiceCoreApplication Started ServiceCoreApplication in 5.247 seconds (JVM running for 6.973)
+2024-03-04 10:09:02 [INFO ] http-nio-8110-exec-1 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 10:23:28 [INFO ] http-nio-8110-exec-4 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 10:24:28 [INFO ] http-nio-8110-exec-8 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 10:31:37 [INFO ] http-nio-8110-exec-7 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 10:38:32 [INFO ] http-nio-8110-exec-9 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
+2024-03-04 10:38:42 [INFO ] http-nio-8110-exec-10 UserInfoServiceImpl.java:78 com.atguigu.srb.core.service.impl.UserInfoServiceImpl integer1
